@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/renanteixeira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&title_color=70a5fd&border_color=70a5fd"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanteixeira&layout=compact&langs_count=7&theme=dracula&locale=pt-br&title_color=70a5fd&border_color=70a5fd"/>
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=renanteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&title_color=70a5fd&border_color=70a5fd"/>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanteixeira&layout=compact&langs_count=7&theme=dracula&locale=pt-br&title_color=70a5fd&border_color=70a5fd"/>
   </a>
 </div>
 <div style="display: inline_block">
